@@ -5,6 +5,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+### `yarn install`
+
+install packages
+
+### `yarn run server`
+
+to strart the json server
 
 ### `yarn start`
 
